@@ -17,7 +17,7 @@ metadata:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
 stackbit_banner:
-  show_banner: true
+  show_banner: false
   name: Exto
   create_url: 'https://app.stackbit.com/create?theme=exto'
   github_url: 'https://github.com/stackbithq/stackbit-theme-exto'
